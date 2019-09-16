@@ -5,8 +5,10 @@ using namespace std;
 
 int main()
 {
-	char Big!Letter;
-	cin >> Big!Letter;
-  cout << "Base = " << Big!Letter << endl;
+	char BigLetter;
+    cout << "Enter a Big Letter\n";
+	cin >> BigLetter;
+    cout << "Base = " << BigLetter << ".\n";
+  
   return 0;
 }
