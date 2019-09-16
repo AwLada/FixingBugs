@@ -9,7 +9,8 @@ int main()
   int somenum;      
   cout << "Please enter a number between 1 and 10: \n";
   cin >> somenum;
-  if(somenum >= 1 || somenum <= 10)
+
+  if( somenum <= 10)
   {
           cout << "Your number is within the requested range!\n";
   }
