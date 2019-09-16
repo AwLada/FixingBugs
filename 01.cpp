@@ -8,7 +8,7 @@ int main()
 	char BigLetter;
    
 	cin >> BigLetter;
-    cout << "Base = " << BigLetter << ".\n";
+    cout << "Base = " << BigLetter << "\n";
   
   return 0;
 }
