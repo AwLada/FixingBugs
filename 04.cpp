@@ -9,6 +9,6 @@ int main()
 {
 	float height;
 	cin >> height;
-  cout << "Height = " << heigt << endl;
+  cout << "Height = " << height << "\n";
 	return 0;
 }
